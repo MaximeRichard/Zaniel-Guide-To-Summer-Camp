@@ -1,0 +1,40 @@
+Zaniel;Hi, I’m Zaniel. What is your name ?
+Alice;Hi Zaniel, I’m Alice. You looks like a musician.
+Player;Thanks, but actually I’m more a video game player.:3;Absolutely, I’ve already wrote a song for you.:7;Not at all.:11
+Alice;Oh me too ! My favorite one is LBB !
+Zaniel;ME TOO ! 
+Information-chan;Alice is now your friend. 
+JumpTo;15
+Alice;I didn’t expect that …. Kinda creepy.
+Zaniel;You’re so pretty. 
+Information-chan;Alice thinks you’re too creepy. 
+JumpTo;15
+Alice;Nevermind
+Zaniel;...
+Information-chan;Alice is bored. 
+JumpTo;15
+Zaniel;Hi, I’m Zaniel. What is your name ?
+Skyler;Hi Zaniel, I’m Skyler. Have you ever been to Hogwarts ? 
+Player;Not for the moment but I’m waiting for the letter !:18;Yes I am already in Hogwarts !:21;What is Hogwarts ?:24
+Skyler;Yeah me too ! I’m turning 11 next year. Can’t wait to go to Hogwarts ! 
+Information-chan;Zaniel & Skyler are now friends. 
+JumpTo;26
+Skyler;Hum….You’re not even 11 years old. It’s not possible. 
+Information-chan;Skyler thinks you’re a liar. 
+JumpTo;26
+Skyler;Nevermind. 
+Information-chan;Skyler looks disappointed. 
+Zaniel;Hi, I’m Zaniel. What is your name ?
+Evan;Zaniel, what a strange name. I’m Evan. What do you think about ice cream and fight ? 
+Player;Sounds good. Is that a video game ?:30;I like Ice creams.:30;No.:30
+Evan;Yeah but you’re too silly to play this game. 
+Information-chan;Evan don’t want to be your friend. Neither do you. 
+JumpTo;38
+Evan;Yeah but you’re too afraid to fight. 
+Information-chan;Evan don’t like you. 
+JumpTo;38
+Evan;Okay, see ya. 
+Information-chan;Evan don’t like you. 
+JumpTo;38
+Monitor;The night is dark and full of terror. We’re almost out of wood. Zaniel, Skyler & Alice  go get us some wood but don’t go too far.
+Ending;
